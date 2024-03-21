@@ -1,0 +1,17 @@
+{
+  "name": "postaway",
+  "version": "1.0.0",
+  "description": "Social Media Application with user friendly interface to register and authenticate users, create a post, and to like and comment on that post",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sandip",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.0.0-beta.2",
+    "express": "^5.0.0-beta.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
